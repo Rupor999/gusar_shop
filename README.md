@@ -1,3 +1,3 @@
-#Прототип интернет магазина
+# Прототип интернет магазина
 
-Stack: Vuejs, Vuex, Nodejs, MongoDB(Mongoose)
+**Stack**: Vuejs, Vuex, Nodejs, MongoDB(Mongoose)
